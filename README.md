@@ -25,6 +25,8 @@ windowsでshファイルを実行する環境を整えるための方法は[参�
 macでconvert.command実行時に権限に関するエラーが出た時の対処法も記載しています。  
 ・参考サイト：[http://www.koreyome.com/web/imagemagic-convert-01/](http://www.koreyome.com/web/imagemagic-convert-01/)
 
+「開発元が未確認のため...」と表示された時は `control+[click]-->開く` から実行できます。
+
 ※念のためプログラムと画像は他ファイル等が存在しない隔離された場所/フォルダ内で実行することを推奨
   
 
