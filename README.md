@@ -4,7 +4,10 @@
 プログラムと同階層にある指定拡張子の画像ファイルを変換します。  
 
 ※デフォルトではjpgファイルを長辺が300pxよりも大きさがある場合は縮小してjpg-90%で書き出す処理をします
-  
+<br><br><br>
+
+
+
 
 ## Installation
 
@@ -14,7 +17,9 @@ win・mac、それぞれにあったファイルを準備します。
 * OS X: `convert.command`  （改行コード：CR+LF）
 
 ※拡張子と改行コードが違うだけで中身の記述は同じ
-  
+<br><br><br>
+
+
 
 ## Usage
 
@@ -28,13 +33,9 @@ macでconvert.command実行時に権限に関するエラーが出た時の対�
 「開発元が未確認のため...」と表示された時は `control+[click]-->開く` から実行できます。
 
 ※念のためプログラムと画像は他ファイル等が存在しない隔離された場所/フォルダ内で実行することを推奨
-  
+<br><br><br>
+
+
 
 ## Copyright
 Copyright © 2014+ Tsutomu Takanashi. See LICENSE for details.
-
-
-
-
-
-
